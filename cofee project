@@ -1,0 +1,27 @@
+<html>
+<head>
+<title>Brew and Bean Coffee Shop</title>
+<meta name="description" content="Premium coffee experience with artisanal blends and cozy atmosphere." />
+
+</head>
+<body>
+<header>
+<div class="container nav">
+<a href="#" class="logo"><strong>Brew and Bean</strong></a>
+<nav>
+<a href="#home">Home</a>
+<a href="#Menu">Menu</a>
+<a href="#about">About</a>
+<a href="#contact">Contact</a>
+</nav>
+</div>
+</header>
+
+
+<section id="home">
+<div class="container hero">
+<div>
+<h1>Welcome to Brew and Bean</h1>
+<p>Experience the Perfect blend of premium coffee and cozy atmosphere.</p>
+<div style="margin-top:1.5rem;">
+<a href="#menu" class="
